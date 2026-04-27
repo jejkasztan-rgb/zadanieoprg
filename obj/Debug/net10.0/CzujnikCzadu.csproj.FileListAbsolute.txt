@@ -1,0 +1,14 @@
+S:\obiektowe\zadania\CzujnikCzadu\CzujnikCzadu\obj\Debug\net10.0\CzujnikCzadu.GeneratedMSBuildEditorConfig.editorconfig
+S:\obiektowe\zadania\CzujnikCzadu\CzujnikCzadu\obj\Debug\net10.0\CzujnikCzadu.AssemblyInfoInputs.cache
+S:\obiektowe\zadania\CzujnikCzadu\CzujnikCzadu\obj\Debug\net10.0\CzujnikCzadu.AssemblyInfo.cs
+S:\obiektowe\zadania\CzujnikCzadu\CzujnikCzadu\obj\Debug\net10.0\CzujnikCzadu.csproj.CoreCompileInputs.cache
+S:\obiektowe\zadania\CzujnikCzadu\CzujnikCzadu\bin\Debug\net10.0\CzujnikCzadu.exe
+S:\obiektowe\zadania\CzujnikCzadu\CzujnikCzadu\bin\Debug\net10.0\CzujnikCzadu.deps.json
+S:\obiektowe\zadania\CzujnikCzadu\CzujnikCzadu\bin\Debug\net10.0\CzujnikCzadu.runtimeconfig.json
+S:\obiektowe\zadania\CzujnikCzadu\CzujnikCzadu\bin\Debug\net10.0\CzujnikCzadu.dll
+S:\obiektowe\zadania\CzujnikCzadu\CzujnikCzadu\bin\Debug\net10.0\CzujnikCzadu.pdb
+S:\obiektowe\zadania\CzujnikCzadu\CzujnikCzadu\obj\Debug\net10.0\CzujnikCzadu.dll
+S:\obiektowe\zadania\CzujnikCzadu\CzujnikCzadu\obj\Debug\net10.0\refint\CzujnikCzadu.dll
+S:\obiektowe\zadania\CzujnikCzadu\CzujnikCzadu\obj\Debug\net10.0\CzujnikCzadu.pdb
+S:\obiektowe\zadania\CzujnikCzadu\CzujnikCzadu\obj\Debug\net10.0\CzujnikCzadu.genruntimeconfig.cache
+S:\obiektowe\zadania\CzujnikCzadu\CzujnikCzadu\obj\Debug\net10.0\ref\CzujnikCzadu.dll
